@@ -39,7 +39,7 @@ jobs:
         REPO_DIR: /srv/repo
         #
         # Uncomment and modify the following line with your image name, otherwise no push will happen
-        IMAGE_NAME: "arokem/nh2023"
+        IMAGE_NAME: "arokem/nh2024"
 
     # Lets us monitor disks getting full as images get bigger over time
     - name: Show how much disk space is left
