@@ -48,8 +48,7 @@ dependencies:
     - mne
     - nilearn
     - dask[complete]
-    - requests==2.28.1
-    - nimare==0.0.12
+    - nimare
     - osfclient
     - line_profiler
     - memory_profiler
