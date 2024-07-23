@@ -48,8 +48,7 @@ dependencies:
     - mne
     - nilearn
     - dask[complete]
-    - requests==2.28.1
-    - nimare==0.0.12
+    - nimare
     - osfclient
     - line_profiler
     - memory_profiler
@@ -64,3 +63,4 @@ dependencies:
     - colorspacious
     - requests
     - platformdirs
+    - git+https://github.com/kjamison/krakencoder.git@571c77f12266ee8685222399e5eee80c8a4cdea7
