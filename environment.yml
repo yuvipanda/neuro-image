@@ -26,7 +26,6 @@ dependencies:
   - jax
   - numba
   - cython
-  - torch
   - pytorch
   - torchvision
   - dcm2niix
@@ -39,6 +38,7 @@ dependencies:
   - tensorflow
   - nitime
   - pip:
+    - torch
     - nbgitpuller
     - pymef
     - pybids
