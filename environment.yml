@@ -26,6 +26,7 @@ dependencies:
   - jax
   - numba
   - cython
+  - torch
   - pytorch
   - torchvision
   - dcm2niix
@@ -60,3 +61,6 @@ dependencies:
     - duecredit
     - git-credential-helpers
     - cloudpathlib[s3,gz,azure]
+    - colorspacious
+    - requests
+    - platformdirs
