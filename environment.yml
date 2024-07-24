@@ -37,6 +37,8 @@ dependencies:
   - imbalanced-learn
   - tensorflow
   - nitime
+  - statsmodels
+  - pymc3
   - pip:
     - torch
     - nbgitpuller
